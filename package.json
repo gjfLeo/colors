@@ -1,0 +1,30 @@
+{
+  "name": "colors",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "main": "index.js",
+  "scripts": {
+    "dev": "vuepress dev .",
+    "build": "vuepress build .",
+    "lint": "eslint . --fix"
+  },
+  "dependencies": {
+    "vue3-colorpicker": "^2.2.3"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^2.6.3",
+    "@gjfleo/eslint-config": "^1.0.1",
+    "@unocss/eslint-plugin": "^0.58.3",
+    "@vuepress/bundler-vite": "2.0.0-rc.0",
+    "@vuepress/client": "2.0.0-rc.0",
+    "eslint": "^8.56.0",
+    "typescript": "^5.3.3",
+    "unocss": "^0.58.3",
+    "vue": "^3.4.15",
+    "vuepress": "2.0.0-rc.0"
+  }
+}
