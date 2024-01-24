@@ -10,6 +10,7 @@ export default defineUserConfig({
     "**/*.md",
     "!**/README.md",
   ],
+  base: "/colors/",
 
   bundler: viteBundler({
     viteOptions: {
