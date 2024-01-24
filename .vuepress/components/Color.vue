@@ -13,8 +13,8 @@
     >
       {{ color }}
     </div>
-    <div class="color-cell font-mono" :style="{ backgroundColor: color, color: contrastColor }">{{ color }}</div>
     <div class="color-cell font-mono" :style="{ color, backgroundColor: contrastColor }">{{ color }}</div>
+    <div class="color-cell font-mono" :style="{ backgroundColor: color, color: contrastColor }">{{ color }}</div>
   </div>
 </template>
 

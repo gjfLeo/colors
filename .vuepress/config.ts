@@ -28,6 +28,7 @@ export default defineUserConfig({
         collapsible: true,
         children: [
           "/game/genshin-impact",
+          "/game/world-of-warcraft",
         ],
       },
     ],
