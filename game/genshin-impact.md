@@ -2,7 +2,7 @@
 
 ## 元素
 
-### 文字描述颜色
+### 文字描述
 
 <ColorGroup type="text" default-contrast-color="#2B333D">
   <Color name="火" color="#FF9999" />
@@ -14,7 +14,7 @@
   <Color name="岩" color="#FFE699" />
 </ColorGroup>
 
-### 图标颜色
+### 图标
 
 <ColorGroup type="text" default-contrast-color="#2B333D">
   <Color name="火" color="#FFA971" />
@@ -27,6 +27,8 @@
 </ColorGroup>
 
 ## 稀有度
+
+### 物品名背景
 
 <ColorGroup type="background" default-contrast-color="#FFFFFF">
   <Color name="五星" color="#B86834" />
