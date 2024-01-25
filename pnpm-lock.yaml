@@ -5,6 +5,9 @@ settings:
   excludeLinksFromLockfile: false
 
 dependencies:
+  '@vueuse/core':
+    specifier: ^10.7.2
+    version: 10.7.2(vue@3.4.15)
   vue3-colorpicker:
     specifier: ^2.2.3
     version: 2.2.3(@aesoper/normal-utils@0.1.5)(@popperjs/core@2.11.8)(@vueuse/core@10.7.2)(gradient-parser@1.0.2)(lodash-es@4.17.21)(tinycolor2@1.6.0)(vue-types@4.2.1)(vue@3.4.15)
@@ -16,6 +19,9 @@ devDependencies:
   '@gjfleo/eslint-config':
     specifier: ^1.0.1
     version: 1.0.1(@unocss/eslint-plugin@0.58.3)(@vue/compiler-sfc@3.4.15)(eslint@8.56.0)(typescript@5.3.3)
+  '@iconify-json/carbon':
+    specifier: ^1.1.28
+    version: 1.1.28
   '@unocss/eslint-plugin':
     specifier: ^0.58.3
     version: 0.58.3(eslint@8.56.0)(typescript@5.3.3)
@@ -775,6 +781,12 @@ packages:
 
   /@humanwhocodes/object-schema@2.0.2:
     resolution: {integrity: sha512-6EwiSjwWYP7pTckG6I5eyFANjPhmPjUX9JRLUSfNPC7FX7zK9gyZAfUEaECL6ALTpGX5AjnBq3C9XmVWPitNpw==}
+    dev: true
+
+  /@iconify-json/carbon@1.1.28:
+    resolution: {integrity: sha512-tg+h0i+69JrIqUpQva2Mt611KdLMeCyibqS7lIqaMRXJgnalHtdqDcdZAKCSLb/hTbkJHyk0NCpQSYJ3f/v51w==}
+    dependencies:
+      '@iconify/types': 2.0.0
     dev: true
 
   /@iconify/types@2.0.0:
