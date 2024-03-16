@@ -37,3 +37,12 @@
   <Color name="二星" color="#2B8D71" />
   <Color name="一星" color="#707589" />
 </ColorGroup>
+
+### 祈愿
+
+<ColorGroup type="background" default-contrast-color="#FFFFFF">
+  <Color name="角色活动祈愿·岩" color="#D09A58" />
+  <Color name="武器活动祈愿" color="#E69449" />
+  <Color name="集录祈愿·晨风之诗" color="#42A4A4" />
+  <Color name="常驻祈愿" color="#757CC8" />
+</ColorGroup>
