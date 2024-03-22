@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-8daa1a0e","path":"/","title":"","lang":"zh-CN","frontmatter":{"home":true,"actions":[{"text":"GO","link":"/game/genshin-impact"}]},"headers":[],"git":{"updatedTime":1706041818000,"contributors":[{"name":"Liger","email":"gjfleo@yeah.net","commits":1}]},"filePathRelative":"index.md"}');export{e as data};

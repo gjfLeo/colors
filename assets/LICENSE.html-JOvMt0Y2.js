@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-ee096fb4","path":"/node_modules/eslint-rule-composer/LICENSE.html","title":"The MIT License (MIT)","lang":"zh-CN","frontmatter":{},"headers":[],"git":{"updatedTime":null,"contributors":[]},"filePathRelative":"node_modules/eslint-rule-composer/LICENSE.md"}');export{e as data};
