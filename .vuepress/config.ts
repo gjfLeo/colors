@@ -29,6 +29,8 @@ export default defineUserConfig({
         children: [
           "/game/genshin-impact",
           "/game/world-of-warcraft",
+          "/game/slay-the-spire",
+          "/game/naraka-bladepoint",
         ],
       },
     ],
