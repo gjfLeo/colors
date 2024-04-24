@@ -41,6 +41,9 @@
 ### 祈愿
 
 <ColorGroup type="background" default-contrast-color="#FFFFFF">
+  <Color name="角色活动祈愿·火" color="#EF6A4B" />
+  <Color name="角色活动祈愿·水" color="#478ECE" />
+  <Color name="角色活动祈愿·风" color="#42A4A4" />
   <Color name="角色活动祈愿·岩" color="#D09A58" />
   <Color name="武器活动祈愿" color="#E69449" />
   <Color name="集录祈愿·晨风之诗" color="#42A4A4" />
