@@ -31,6 +31,7 @@ export default defineUserConfig({
           "/game/world-of-warcraft",
           "/game/slay-the-spire",
           "/game/naraka-bladepoint",
+          "/game/hades-2",
         ],
       },
     ],
